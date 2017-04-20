@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #coding=utf-8
 #version_1 
+#made by dahu
 """1.考虑两组数据事件不一样的情况
    2.按照要求格式输出"""
 import re,sys,string
